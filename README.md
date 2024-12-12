@@ -1,6 +1,4 @@
-Here's a README file incorporating all the given information:
 
----
 
 # Notes Application
 
