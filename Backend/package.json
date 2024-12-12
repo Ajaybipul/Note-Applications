@@ -8,7 +8,7 @@
     "start": "nodemon index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Ajay Yadav",
+  "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
