@@ -20,7 +20,7 @@ app.use(helmet());
 // CORS setup
 app.use(cors({
     credentials: true,
-    origin: 'http://localhost:5173'  // Replace with your frontend URL
+    origin: 'https://superlative-meerkat-efdb1b.netlify.app'  // Replace with your frontend URL
 }));
 
 // Middleware
